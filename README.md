@@ -18,6 +18,7 @@ Bar Chart, Pie chart, heatmap, scatter plot, indexing, excel formulas
    ![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/assets/170541567/e0d66adb-7218-4685-a016-e46973e0eee3)
 
 4. Total spending over the years in the selected country (Example chart of Australia)
+   
    ![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/assets/170541567/7ef344b4-b36e-4ec2-b9d5-9a60ddbd3033)
 
 6. The relationship between Percentage of GDP and Percentage of Heathcare expenditure in selected country (Example chart of Australia)
