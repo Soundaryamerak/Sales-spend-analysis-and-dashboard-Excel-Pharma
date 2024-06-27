@@ -5,4 +5,4 @@ The data contains percentage of health expenditure, percentage of GDP, Per capit
 
 ## Analysis
 1. Heat map of total spendings (USD) in each country with a World Heat map
-   ![Chart Description](https://github.com/YourUsername/YourRepository/raw/main/path/to/your/image.png)
+   Heat Map([https://github.com/YourUsername/YourRepository/raw/main/path/to/your/image.png](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/Heatmap-project1-Excel.png))
