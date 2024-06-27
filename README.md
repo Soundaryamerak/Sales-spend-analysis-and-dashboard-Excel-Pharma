@@ -1,4 +1,4 @@
-# Explanation, insights & Recommendation for 2 mini projects have been done using MS Excel, from open data sources in the pharmaceutical industry.  
+Explanation, insights & Recommendation for 2 mini projects have been done using MS Excel, from open data sources in the pharmaceutical industry.  
 
 # Project 1 - Analysis of yearly pharmaceutical expenditure by various countries to identify trends and insights
 
