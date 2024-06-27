@@ -13,7 +13,8 @@ Bar Chart, Pie chart, heatmap, scatter plot, indexing, excel formulas
 
 **Analysis Dashboard**
 1. Heat map of total spendings (USD) in each country with a World Heat map
-   ![Pharma Sales Chart](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/Heatmap-project1-Excel.png)
+   ![Pharma Sales Chart](![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/assets/170541567/c1e639fc-b1b1-4faf-bc3f-12617af87ce6)
+)
 2. BarChart that compares the growth of USD per capita & total healthcare spends over the years in the selected Country (Example chart of Australia)
    ![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/assets/170541567/e0d66adb-7218-4685-a016-e46973e0eee3)
 
