@@ -15,11 +15,14 @@ Bar Chart, Pie chart, heatmap, scatter plot, indexing, excel formulas
 1. Heat map of total spendings (USD) in each country with a World Heat map
    ![Pharma Sales Chart](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/Heatmap-project1-Excel.png)
 2. BarChart that compares the growth of USD per capita & total healthcare spends over the years in the selected Country (Example chart of Australia)
-   ![Pharma Sales Chart](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/Year-vs-spend%26percapita.png)
+   ![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/assets/170541567/e0d66adb-7218-4685-a016-e46973e0eee3)
+
 4. Total spending over the years in the selected country (Example chart of Australia)
-   ![Pharma Sales Chart](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/Total%20spend%20over%20the%20years.png)
+   ![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/assets/170541567/7ef344b4-b36e-4ec2-b9d5-9a60ddbd3033)
+
 6. The relationship between Percentage of GDP and Percentage of Heathcare expenditure in selected country (Example chart of Australia)
-![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/Relationship%20percent%20healthcareExpVsGDP%20Expenditure.png)
+![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/assets/170541567/e26a34ad-9970-4501-a71f-79432ae571eb)
+
 
 **Insights**
 
@@ -38,11 +41,14 @@ Pivot, Vlookup, Bar Chart, Pie chart, heatmap, scatter plot, indexing, excel for
 
 **Analysis Dashboard**
 1. Bar chart shows the Quantity sold for each product. Filter the year/product from the chart
-   ![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/Quantity%20sold%20per%20year.png)
+  ![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/assets/170541567/5302dec2-1fd4-4fbe-8953-0d4144dc1cc0)
+
 2. Pie chart shows the percentages of total quantity sold for each product
-   ![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/Total%20quantity%20sold%20over%20the%20years.png)
+   ![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/assets/170541567/8f6a0f8c-f629-4181-a781-a6cb6a4ed66c)
+
 3. Find the sale for a particular date and time for each product.
-![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/Sales%20on%20a%20particular%20date%20and%20time.png)
+![image](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/assets/170541567/44f475df-a931-46d2-93e2-5d02a7f62ce8)
+
 
 
 **Insights**
