@@ -31,7 +31,7 @@ Bar Chart, Pie chart, heatmap, scatter plot, indexing, excel formulas
 
 
 **Observations & Insights**
-1. The heatmap shows a significant increase in total health expenditure over the years across various countries, with the USA and Canada having the highest spends. 
+1. The heatmap shows USA had the highest total health expenditure over the years followed by Canada and Australia. 
 2. Significant Health Expenditure Growth in Australia: This trend indicates a growing global spends in healthcare, potentially due to increasing healthcare costs, aging populations, and advancements in medical technology.
 3. Positive Correlation Between Healthcare Expenditure and GDP in Australia. This correlation indicates that as Australia allocates a larger portion of its GDP to healthcare, the overall expenditure on healthcare increases, reflecting the country’s prioritization of health in its economic policies.
 4. Total Health Expenditure Increasing Faster Than Per Capita Spending in Australia: This indicates that the overall healthcare budget is growing significantly faster, potentially driven by factors such as rising healthcare demands, increased healthcare services, even though the per capita spending increase is more gradual.
